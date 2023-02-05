@@ -4,13 +4,6 @@ import os
 
 os.system("clear")
 os.system
-print("Starting.....")
-print("Loading...")
-print("Script Maintenance please waiting...")
-print("Add notifi for update script GBF[GarudaBruteForce]...")
-print("Succses Maintenance")
-os.system
-
 def baner():
     time.sleep(0.1)
     kata("""\n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
@@ -297,7 +290,6 @@ def mbf():
 
 
 if __name__=="__main__":
-     clear()
      baner()
      gbf()
      balik()
