@@ -9,13 +9,8 @@ print("Loading...")
 print("Script Maintenance please waiting...")
 print("Add notifi for update script GBF[GarudaBruteForce]...")
 print("Succses Maintenance")
-OS.system
-    os.system("clear")
-def kata(s):
-    for c in s + '\n':
-        sys.stdout.write(c)
-        sys.stdout.flush()
-        time.sleep(1./300)
+os.system
+
 def baner():
     time.sleep(0.1)
     kata("""\n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
