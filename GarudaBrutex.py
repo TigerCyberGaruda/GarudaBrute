@@ -48,7 +48,7 @@ def balik():
 
     if f == "":
 
-       os.system("python GarudaBrute.py")
+       os.system("python GarudaBrutex.py")
 
     else:
 
